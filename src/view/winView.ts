@@ -1,7 +1,7 @@
 import { model } from "../model/index.js";
 import selectorChecker from "../utils/selectorChecker.js";
 import { view } from "./index.js";
-import "./winview.scss";
+import "./winView.scss";
 
 export class WinView {
   renderUI() {
